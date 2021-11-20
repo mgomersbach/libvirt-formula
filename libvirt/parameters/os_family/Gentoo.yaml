@@ -15,4 +15,5 @@ values:
   qemu_pkg: app-emulation/qemu
   python2_pkg: dev-python/libvirt-python
   python3_pkg: dev-python/libvirt-python
+  daemon_config_path: ~
 ...
