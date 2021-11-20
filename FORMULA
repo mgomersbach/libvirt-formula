@@ -1,6 +1,6 @@
 name: libvirt
-os: Debian, CentOS, openSUSE, Suse
-os_family: Debian, RedHat, Suse
+os: Debian, CentOS, openSUSE, Suse, Gentoo
+os_family: Debian, RedHat, Suse, Gentoo
 version: 3.9.0
 release: 1
 minimum_version: 2018.3
